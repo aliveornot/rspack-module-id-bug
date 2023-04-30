@@ -1,0 +1,14 @@
+{
+  "name": "rspack-module-id-bug",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "build": "rspack build",
+    "build:rspack": "rspack build",
+    "build:webpack": "webpack -c ./rspack.config.js"
+  },
+  "devDependencies": {
+    "@rspack/cli": "^0.1.9",
+    "webpack-cli": "^5.0.2"
+  }
+}
