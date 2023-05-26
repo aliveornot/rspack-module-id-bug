@@ -1,2 +1,2 @@
-import simpleDemoPackage from 'simple-demo-package';
-export default simpleDemoPackage;
+import inlineStylePrefixer from 'inline-style-prefixer';
+export { simpleDemoPackage, inlineStylePrefixer };
